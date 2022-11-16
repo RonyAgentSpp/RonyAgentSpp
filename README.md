@@ -13,5 +13,7 @@ https://ronyagentspp.github.io/university-school/
 
 https://ronyagentspp.github.io/dashboard-1/
 
+https://ronyagentspp.github.io/dashboard-2/
+
 
 
