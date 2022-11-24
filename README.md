@@ -6,6 +6,13 @@
 ### Contato:5521970079469
 ## e-mail: ronaldo.lima_2013@hotmail.com
 # Direct By: Rony Inside Code 2022.
+_____________________________________________________________
+Redes Sociais
+https://twitter.com/RonyInsideCode
+https://www.instagram.com/mestre.rony.official/
+https://www.facebook.com/ronaldo.limadossantos
+https://www.linkedin.com/in/ronaldo-lima-dos-santos-42b64911a/
+______________________________________________________________
 
 MEUS PROJETOS E MEU PORTIFÓLIO
 
