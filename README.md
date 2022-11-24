@@ -52,7 +52,7 @@ https://ronyagentspp.github.io/dashboard-8/
 
 https://ronyagentspp.github.io/dashboard-9/
 
-https://ronyagentspp.github.io/dashboard-10/
+https://ronyagentspp.github.io/DASHBOARD-10/
 
 ____________________________________________________
 
