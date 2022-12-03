@@ -16,6 +16,8 @@ https://www.instagram.com/mestre.rony.official/
 https://www.facebook.com/ronaldo.limadossantos
 
 https://www.linkedin.com/in/ronaldo-lima-dos-santos-42b64911a/
+
+https://www.revistamaster.com.br/BlackBelts/exibir/57/ronaldo-lima
 ______________________________________________________________
 
 MEUS PROJETOS E MEU PORTIFÓLIO
