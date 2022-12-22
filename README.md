@@ -26,6 +26,8 @@ MEUS PROJETOS E MEU PORTIFÓLIO
 
 https://ronyagentspp.github.io/1-Consult/
 
+https://ronyagentspp.github.io/2-financial/
+
 https://ronyagentspp.github.io/university-school/
 
  https://ronyagentspp.github.io/website/
