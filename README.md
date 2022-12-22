@@ -22,7 +22,7 @@ ______________________________________________________________
 
 MEUS PROJETOS E MEU PORTIFÓLIO
 
-#PROJETOS WEBSITES/ LANDPAGE /FORMULÁRIOS/ LOGIN E SENHA
+#PROJETOS WEBSITES/ LANDPAGE 
 
 https://ronyagentspp.github.io/1-Consult/
 
