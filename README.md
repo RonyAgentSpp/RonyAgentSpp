@@ -7,18 +7,6 @@
 ## e-mail: ronaldo.lima_2013@hotmail.com
 # Direct By: Rony Inside Code 2022.
 _____________________________________________________________
-Redes Sociais
-
-https://twitter.com/RonyInsideCode
-
-https://www.instagram.com/mestre.rony.official/
-
-https://www.facebook.com/ronaldo.limadossantos
-
-https://www.linkedin.com/in/ronaldo-lima-dos-santos-42b64911a/
-
-https://www.revistamaster.com.br/BlackBelts/exibir/57/ronaldo-lima
-______________________________________________________________
 
 MEUS PROJETOS E MEU PORTIFÓLIO
 
@@ -27,6 +15,8 @@ MEUS PROJETOS E MEU PORTIFÓLIO
 https://ronyagentspp.github.io/1-Consult/
 
 https://ronyagentspp.github.io/2-financial/
+
+https://ronyagentspp.github.io/safecam-3/
 
 https://ronyagentspp.github.io/university-school/
 
@@ -84,6 +74,17 @@ https://ronyagentspp.github.io/dashboard-9/
 https://ronyagentspp.github.io/dashboard-13/
 ____________________________________________________
 
+Redes Sociais
+
+https://twitter.com/RonyInsideCode
+
+https://www.instagram.com/mestre.rony.official/
+
+https://www.facebook.com/ronaldo.limadossantos
+
+https://www.linkedin.com/in/ronaldo-lima-dos-santos-42b64911a/
+
+https://www.revistamaster.com.br/BlackBelts/exibir/57/ronaldo-lima
 
 
 
