@@ -27,10 +27,6 @@ https://ronyagentspp.github.io/university-school/
  https://ronyagentspp.github.io/website/
  
  https://ronyagentspp.github.io/website2/
- 
- https://ronyagentspp.github.io/login-senha/
-
-https://ronyagentspp.github.io/Formulario-de-DEvs/
 
 ____________________________________________________
 #LOGIN E SENHA/ FORMULÁRIOS
