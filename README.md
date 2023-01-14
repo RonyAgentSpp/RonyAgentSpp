@@ -5,7 +5,7 @@
 ### Olá! Eu sou o Ronaldo Lima FrontEnd Develope ✋
 ### Contato:552197007-9469
 ## e-mail: ronaldo.lima_2013@hotmail.com
-# Direct By: Rony Inside Code 2022.
+# Direct By: Rony Inside Code.
 _____________________________________________________________
 
 MEUS PROJETOS E MEU PORTIFÓLIO
