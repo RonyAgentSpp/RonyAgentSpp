@@ -25,6 +25,8 @@ https://ronyagentspp.github.io/coathing-4/
 https://ronyagentspp.github.io/capiclean-5/
 
  https://ronyagentspp.github.io/seodreams6/
+ 
+ https://ronyagentspp.github.io/gymfitness7/
 
 https://ronyagentspp.github.io/university-school/
 
