@@ -26,7 +26,7 @@ https://ronyagentspp.github.io/capiclean-5/
 
  https://ronyagentspp.github.io/seodreams6/
  
- https://ronyagentspp.github.io/gymfitness7/
+ https://ronyagentspp.github.io/gymfitness9/
  
  https://ronyagentspp.github.io/gymrony10/
 
