@@ -39,6 +39,8 @@ https://ronyagentspp.github.io/word7/
   https://ronyagentspp.github.io/bitcoin13/
   
   https://ronyagentspp.github.io/car-clean14/
+  
+  https://ronyagentspp.github.io/2rigs15/
 
 https://ronyagentspp.github.io/university-school/
 
