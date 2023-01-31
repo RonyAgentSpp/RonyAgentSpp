@@ -43,8 +43,10 @@ https://ronyagentspp.github.io/word7/
   https://ronyagentspp.github.io/2rigs15/
   
    https://ronyagentspp.github.io/industrial17/
+   
+  https://ronyagentspp.github.io/petshop18/
 
-https://ronyagentspp.github.io/university-school/
+  https://ronyagentspp.github.io/university-school/
 
  https://ronyagentspp.github.io/website/
  
