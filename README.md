@@ -2,16 +2,22 @@
 
 ### Olá! Eu sou o Ronaldo Lima FrontEnd Develope ✋
 
-Estou no 4° período da faculdade de TI tenho alguns projetos responsivos neste git hub. 
-Tenho domínio na tecnologia frontend, nas linguagens de programação:
-Html, CSS+3, java script, framework, API's, bootstraps, typescript, React. 
-Estou em constante aprendizado em busca de novos conhecimentos.
+Estou no 4° período da faculdade de TI 
+tenho alguns projetos responsivos neste git hub. 
+Tenho domínio na tecnologia frontend,
+nas linguagens de programação:
+Html, CSS+3, java script, framework,
+API's, bootstraps, typescript, React. 
+Estou em constante aprendizado
+em busca de novos conhecimentos.
 
 Adoraria poder compartilhar meus conhecimentos 
 com a equipe e poder também aprender com vocês.
-Me encontro disponível e possuo real interesse em oportunidades neste seguimento .
+Me encontro disponível e possuo real interesse 
+em oportunidades neste seguimento .
 
-Gostaria de te convidar para visualizar meus projetos prontos 
+Gostaria de te convidar para visualizar
+meus projetos prontos 
 e contribuir com críticas construtivas.
 Em breve trarei mais novidades.
 
