@@ -80,6 +80,8 @@ https://ronyagentspp.github.io/word7/
   https://ronyagentspp.github.io/maker22/
   
   https://ronyagentspp.github.io/spacedynamic23/
+  
+  https://ronyagentspp.github.io/pinter24/
 
   https://ronyagentspp.github.io/university-school/
 
