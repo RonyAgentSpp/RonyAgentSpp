@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Olá! Eu sou o Ronaldo Lima FrontEnd Develope ✋
+### Olá! Eu sou o Ronaldo Lima FrontEnd Developer ✋
 
 Estou no 4° período da faculdade de TI 
 tenho alguns projetos responsivos neste git hub. 
