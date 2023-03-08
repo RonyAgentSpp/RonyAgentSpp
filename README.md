@@ -6,7 +6,7 @@ Estou na faculdade de TI
 tenho diversos projetos responsivos neste git hub. 
 Tenho domínio na tecnologia frontend,
 nas linguagens de programação:
-Html, CSS+3, java script, framework,
+Html5, CSS+3, java script, framework,
 API's, bootstraps, typescript, React. 
 Estou em constante aprendizado
 em busca de novos conhecimentos.
