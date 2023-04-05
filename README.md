@@ -39,7 +39,7 @@ MEUS PROJETOS E MEU PORTIFÓLIO
 
 #PROJETOS WEBSITES/ LANDPAGE 
 
- https://ronyagentspp.github.io/portifolio/
+https://ronyagentspp.github.io/portfolio/
 
 https://ronyagentspp.github.io/1-Consult/
 
