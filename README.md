@@ -23,7 +23,7 @@ Em breve trarei mais novidades.
 
 Segue o link do meu portfólio:
 
-https://ronyagentspp.github.io/portifolio/
+https://ronyagentspp.github.io/portfolio/
 
 
 Obrigado pela sua atenção.
