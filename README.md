@@ -1,3 +1,5 @@
+# Direct By: Rony Inside Code 2023.
+
 ### Hi there 👋
 
 ### Olá! Eu sou o Ronaldo Lima FrontEnd Developer ✋
@@ -30,8 +32,6 @@ Obrigado pela sua atenção.
 Cordialmente,
 
 Ronaldo Lima
-
-# Direct By: Rony Inside Code 2023.
 ___________________________________________
 
 Onde me encontrar,
