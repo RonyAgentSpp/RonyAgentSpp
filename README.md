@@ -25,7 +25,6 @@ Segue o link do meu portfólio:
 
 https://ronyagentspp.github.io/portfolio/
 
-
 Obrigado pela sua atenção.
 
 Cordialmente,
@@ -33,6 +32,27 @@ Cordialmente,
 Ronaldo Lima
 
 # Direct By: Rony Inside Code 2023.
+___________________________________________
+
+Onde me encontrar,
+
+Redes Sociais:
+
+https://twitter.com/RonyInsideCode
+
+https://www.instagram.com/mestre.rony.official/
+
+https://www.facebook.com/ronaldo.limadossantos
+
+https://www.facebook.com/rony.lima.75098364/
+
+https://www.linkedin.com/in/ronaldo-lima-dos-santos-42b64911a/
+
+https://www.revistamaster.com.br/BlackBelts/exibir/57/ronaldo-lima
+
+_____________________________________________________________
+email: ronaldo.lima_2013@hotmail.com
+contato:5521970079469
 _____________________________________________________________
 
 MEUS PROJETOS E MEU PORTIFÓLIO
@@ -134,20 +154,6 @@ https://ronyagentspp.github.io/dashboard-9/
 
 https://ronyagentspp.github.io/dashboard-13/
 ____________________________________________________
-
-Redes Sociais
-
-https://twitter.com/RonyInsideCode
-
-https://www.instagram.com/mestre.rony.official/
-
-https://www.facebook.com/ronaldo.limadossantos
-
-https://www.facebook.com/rony.lima.75098364/
-
-https://www.linkedin.com/in/ronaldo-lima-dos-santos-42b64911a/
-
-https://www.revistamaster.com.br/BlackBelts/exibir/57/ronaldo-lima
 
 
 
