@@ -52,6 +52,7 @@ https://www.revistamaster.com.br/BlackBelts/exibir/57/ronaldo-lima
 
 _____________________________________________________________
 email: ronaldo.lima_2013@hotmail.com
+
 contato:5521970079469
 _____________________________________________________________
 
