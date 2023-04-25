@@ -23,8 +23,8 @@ meus projetos prontos
 e contribuir com críticas construtivas.
 Visão inovadora, fome de conhecimento, resolução de problemas.
 
-#Contato: 55 21 97007-9469
-#e-mail: ronaldo.lima_2013@hotmail.com
+- Contato: 55 21 97007-9469
+- e-mail: ronaldo.lima_2013@hotmail.com
 
 Obrigado pela sua atenção.
 
