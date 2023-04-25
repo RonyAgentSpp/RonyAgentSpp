@@ -1,8 +1,33 @@
-# Direct By: Rony Inside Code.
+# Portfolio Principal
 
 ### Hi there 👋
 
 ### Olá! Eu sou o Ronaldo Lima FrontEnd Developer ✋
+
+## Tecnologias Utilizadas
+- HTML5
+- CSS3
+- SCCS
+- Javascript
+- Bootstrap´s
+
+# Sobre
+
+1- Nesse Projeto, estou emplementando outros projetos responsivos.
+...
+
+2- Onde aprendendo muito, estou faminto de conhecimento, pretendo agregar valores e ajudar a cominidade de Devs...
+
+3- Todos direitos reservados a: Ronaldo Lima dos Santos
+...
+
+#Contato: 55 21 97007-9469
+e-mail: ronaldo.lima_2013@hotmail.com
+
+# Admin: Rony Inside Code
+[<img src"rony.png" alt"portfolio da tela inicial">(https://ronyagentspp.github.io/portfolio/)]
+
+cd repositorio-com-readme
 
 Estou na faculdade de TI 
 tenho diversos projetos responsivos neste git hub. 
@@ -15,7 +40,7 @@ em busca de novos conhecimentos.
 
 Adoraria poder compartilhar meus conhecimentos 
 com a equipe e poder também aprender com vocês.
-Me encontro disponível e possuo real interesse 
+Me encontro disponível e possuo real interesse
 em oportunidades neste seguimento .
 
 Gostaria de te convidar para visualizar
