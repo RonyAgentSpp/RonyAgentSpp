@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 ### Olá! Eu sou o Ronaldo Lima FrontEnd Developer ✋
-[<img src"#" alt"foto do perfil">(https://ronyagentspp.github.io/portfolio/)]
+[<img src"rony.png" alt"foto do perfil">(https://ronyagentspp.github.io/portfolio/)]
 Atualmente cursando Tecnologia da Informação,
 tenho diversos projetos responsivos neste git hub. 
 Tenho domínio na tecnologia frontend,
