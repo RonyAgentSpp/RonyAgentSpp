@@ -4,7 +4,7 @@
 
 ### Olá! Eu sou o Ronaldo Lima FrontEnd Developer ✋
 
-Estou na faculdade de TI 
+Atualmente cursando Tecnologia da Informação,
 tenho diversos projetos responsivos neste git hub. 
 Tenho domínio na tecnologia frontend,
 nas linguagens de programação:
@@ -21,12 +21,19 @@ em oportunidades neste seguimento .
 Gostaria de te convidar para visualizar
 meus projetos prontos 
 e contribuir com críticas construtivas.
-Em breve trarei mais novidades.
+Visão inovadora, fome de conhecimento, resolução de problemas.
 
 #Contato: 55 21 97007-9469
 e-mail: ronaldo.lima_2013@hotmail.com
 
-# Admin: Rony Inside Code
+Obrigado pela sua atenção.
+
+Cordialmente,
+
+Ronaldo Lima
+
+# Admin: Rony Inside Code 
+Segue o link do meu portfólio:
 [<img src"rony.png" alt"portfolio da tela inicial">(https://ronyagentspp.github.io/portfolio/)]
 
 ## Tecnologias Utilizadas
@@ -48,17 +55,6 @@ e-mail: ronaldo.lima_2013@hotmail.com
 
 cd repositorio-com-readme
 
-
-
-Segue o link do meu portfólio:
-
-https://ronyagentspp.github.io/portfolio/
-
-Obrigado pela sua atenção.
-
-Cordialmente,
-
-Ronaldo Lima
 ___________________________________________
 
 Onde me encontrar,
