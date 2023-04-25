@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 ### Olá! Eu sou o Ronaldo Lima FrontEnd Developer ✋
+[<img src"rony.png" alt"portfolio da tela inicial">(#)]
 
 Atualmente cursando Tecnologia da Informação,
 tenho diversos projetos responsivos neste git hub. 
@@ -34,7 +35,7 @@ Ronaldo Lima
 
 # Admin: Rony Inside Code 
 Segue o link do meu portfólio:
-[<img src"rony.png" alt"portfolio da tela inicial">(https://ronyagentspp.github.io/portfolio/)]
+[<img src"#" alt"portfolio da tela inicial">(https://ronyagentspp.github.io/portfolio/)]
 
 ## Tecnologias Utilizadas
 - HTML5
