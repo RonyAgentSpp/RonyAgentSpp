@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="./img/port2.png"alt="Rony Inside Code" height="250" width="250" style="border-radius:150px" 
+  <img src="./img/port2.png"alt="Rony Inside Code" height="200" width="250" style="border-radius:150px" 
   <br>
     <h1 align="center" style="Color: rgb(0,191,255)">Rony Inside Code</h1>
   
