@@ -30,18 +30,18 @@ Obrigado pela sua atenção.
 
 <p align="center"> 
   <a href="https://www.instagram.com/mestre.rony.official/">
-    <img src="./assets/img/instagram.png" alt="Instagram">
+    <img src="./img/instagram.png" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/ronaldo-lima-dos-santos-42b64911a/">
-    <img src="./assets/img/linkedin.png" alt="Linkdin">
+    <img src="./img/linkedin.png" alt="Linkdin">
   </a>
   <a href="https://www.facebook.com/ronaldo.limadossantos">
-    <img src="./assets/img/facebook.png" alt="Facebook">
+    <img src="./img/facebook.png" alt="Facebook">
   </a>
   <a href="https://github.com/RonyAgentSpp">
-      <img src="./assets/img/git-hub.png">
+      <img src="./img/git-hub.png">
   </a>
-<a href="https://web.whatsapp.com/"><img src="./assets/img/whatsapp.png" alt="Project Status: WIP  /></a>  
+<a href="https://web.whatsapp.com/"><img src="./img/whatsapp.png" alt="Project Status: WIP  /></a>  
 </p>
 - desenvolvimento inicial está em andamento, mas ainda não ainda foi um lançamento estável e utilizável adequado para o público." /></a>
 
