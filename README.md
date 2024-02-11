@@ -31,7 +31,7 @@ Obrigado pela sua atenção.
 <p align="center"> 
   <a href="https://www.instagram.com/mestre.rony.official/">
     <img src="./img/instagram.png" alt="Instagram">
-  </a>[
+  </a>
   <a href="https://www.linkedin.com/in/ronaldo-lima-dos-santos-a3087b245/"/>
     <img src="./img/linkedin.png" alt="Linkdin">
   </a>
