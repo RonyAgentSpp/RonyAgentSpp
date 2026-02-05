@@ -42,14 +42,14 @@ Certificações: ITIL, COBIT, Melhoria Contínua, Gestão de Projetos, Governan�
 
 <p align="center"><i>"Portfólio Principal" - Redes Sociais Me encontre!</i> </p>
 
-## <p align="center">  https://ronyagentspp.github.io/portfolio/</p>
+## <p align="center">  rony-inside-code-portfolio-13c72286.base44.app</p>
 
 
 <p align="center"> 
-  <a href="https://www.instagram.com/mestre.rony.official/">
+  <a href="https://www.instagram.com/ronyinsidecode/">
     <img src="./img/instagram.png" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/ronaldo-lima-dos-santos-a3087b245/"/>
+  <a href="https://www.linkedin.com/in/ronaldo-lima-dos-santos-5013322aa/"/>
     <img src="./img/linkedin.png" alt="Linkdin">
   </a>
   <a href="https://www.facebook.com/ronaldo.limadossantos">
