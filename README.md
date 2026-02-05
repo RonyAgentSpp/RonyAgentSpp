@@ -9,14 +9,31 @@
 <p align="center">
 
 Hi there 👋<br>
-Olá! Eu sou o Ronaldo Lima FrontEnd Developer ✋
-Atualmente cursando Tecnologia da Informação, tenho diversos projetos responsivos neste git hub. Tenho domínio na tecnologia frontend, nas linguagens de programação: Html5, CSS+3, java script, framework, API's, bootstraps, typescript, React. Estou em constante aprendizado em busca de novos conhecimentos.
+PERFIL PROFISSIONAL
 
-Adoraria poder compartilhar meus conhecimentos com a equipe e poder também aprender com vocês. Me encontro disponível e possuo real interesse em oportunidades neste seguimento .
+Pós-graduado em Gestão de Cibersegurança e graduado em Gestão da Tecnologia da Informação. Profissional de Tecnologia da Informação com mais de 5 anos de experiência em infraestrutura de redes, suporte técnico (1º e 2º nível), segurança da informação e automação de processos. Atuação consistente na instalação, configuração e manutenção de desktops, notebooks, impressoras, sistemas operacionais, backup, CFTV e telefonia corporativa.
 
-Gostaria de te convidar para visualizar meus projetos prontos e contribuir com críticas construtivas. Visão inovadora, fome de conhecimento, resolução de problemas.
+Desde maio de 2023, exerço a função de Líder de Equipe de TI no Grupo Best Fork, sendo responsável pelo planejamento estratégico, alocação de recursos, definição de metas, análise de riscos e elaboração de relatórios técnicos. Lidero times de suporte e infraestrutura, garantindo alta disponibilidade dos serviços e cumprimento dos níveis de SLA.
 
-Obrigado pela sua atenção.
+Desenvolvo dashboards interativos e automatizados em HTML5, CSS3, JavaScript, React e Power BI, aplicados ao controle de servidores, gestão de estoque e folha de ponto. Atuo com foco em melhoria contínua, eficiência operacional e governança de TI, utilizando metodologias e frameworks como ITIL, COBIT, BPM, FOFA, LGPD e ISO 27001.
+
+Sou reconhecido pela capacidade de liderança, comunicação assertiva, colaboração em equipe, resiliência e constante busca por aprendizado técnico e estratégico.
+
+🧩 COMPETÊNCIAS TÉCNICAS
+
+Infraestrutura & Redes: Active Directory, DHCP, DNS, VPNs, Firewall, cabeamento estruturado, CFTV, telefonia, backup, Zabbix e PRTG.
+Sistemas Operacionais & Equipamentos: Windows Server, Windows 10/11, Linux (Ubuntu, CentOS); manutenção de desktops, notebooks e impressoras.
+Automação & Desenvolvimento Front-End: Python, Power BI, HTML5, CSS3, JavaScript, TypeScript e React.
+Gestão de TI & Segurança: ITIL, COBIT, BPM, FOFA, LGPD, ISO 27001; análise de risco, relatórios técnicos, governança e suporte remoto.
+Liderança & Soft Skills: gestão de equipe, definição de metas, comunicação efetiva, resolução de problemas, proatividade e aprendizado contínuo.
+
+🎓 FORMAÇÃO ACADÊMICA
+
+Pós-graduação em Gestão de Cibersegurança – Conclusão recente
+Graduação em Gestão da Tecnologia da Informação – Estácio, RJ
+Técnico em Informática 
+
+Certificações: ITIL, COBIT, Melhoria Contínua, Gestão de Projetos, Governança de TI, Programação para Internet, Inglês para Programadores.
 
 - Contato: 55 21 97007-9469
 - e-mail: ronaldo.lima_2013@hotmail.com
