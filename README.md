@@ -42,7 +42,12 @@ Certificações: ITIL, COBIT, Melhoria Contínua, Gestão de Projetos, Governan�
 
 <p align="center"><i>"Portfólio Principal" - Redes Sociais Me encontre!</i> </p>
 
-## <p align="center">rony-inside-code-portfolio-13c72286.base44.app</p>
+## <p align="center">
+<a href="https://rony-inside-code-portfolio-13c72286.base44.app" target="_blank">
+Acessar Portfólio Principal
+</a>
+</p>
+
 
 
 <p align="center"> 
